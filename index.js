@@ -7,5 +7,5 @@ window.addEventListener("DOMContentLoaded", () => {
     player.style.height = "100%"
     let container = document.getElementById("container");
     container.appendChild(player);
-    player.ruffle().load("./swf/armedwithwings.swf");
+    player.ruffle().load("https://github.com/PWebGames/Wings/raw/refs/heads/main/swf/armedwithwings.swf");
 });
