@@ -1,4 +1,4 @@
-const CACHE_NAME = "Wings-cache-v1";
+const CACHE_NAME = "Wings-cache-v2";
 const ASSETS = [
   "./",
   "./index.html",
